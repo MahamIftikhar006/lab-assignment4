@@ -1,0 +1,6 @@
+Player 1 : Maham
+Player 2 : Komal
+------------------
+Player 1 : maham
+Player 2 : komal
+------------------
